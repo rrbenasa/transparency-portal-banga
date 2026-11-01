@@ -5,10 +5,10 @@
 import { defineConfig } from './src/config';
 
 export default defineConfig({
-  id: "kalibo",
+  id: "banga",
   kind: "municipality",
-  name: "Municipality of Kalibo",
-  shortName: "Kalibo",
+  name: "Municipality of Banga",
+  shortName: "Banga",
   operator: {
     name: "MOVERS Ph"
   },
@@ -16,8 +16,8 @@ export default defineConfig({
     offices: [],
     places: [
       {
-        label: "Kalibo",
-        q: "Kalibo Aklan",
+        label: "Banga",
+        q: "Banga Aklan",
         region: "VI"
       }
     ],
